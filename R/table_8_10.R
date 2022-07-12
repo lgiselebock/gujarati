@@ -1,0 +1,20 @@
+#' Table 8.10 The demand for cable
+#'
+#' Data used by a telephone cable manufacturer to predict sales to a major customer for the period 1968–1983
+#'
+#' @format A [tibble][tibble::tibble-package] with `r nrow(table_8_10)` rows and
+#' `r ncol(table_8_10)` variables:
+#' \describe{
+#'   \item{year}{}
+#'   \item{x2:}{gross national product (GNP), $ billions}
+#'   \item{x3:}{housing starts, thousands of units}
+#'   \item{x4:}{unemployment rate, %}
+#'   \item{x5:}{prime rate lag, 6 months}
+#'   \item{x6:}{customer line gains, %}
+#'   \item{y:}{annual sales in MPF, million paired feet}
+#' }
+#'
+#' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.
+#' Boston, Mass: McGraw-Hill, 2009, p. 269.
+#' I am indebted to Daniel J. Reardon for collecting and processing the data.
+"table_8_10"
