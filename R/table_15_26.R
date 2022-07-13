@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_26)` rows and
 #' `r ncol(table_15_26)` variables:
-#' \describe{
-#'   \item{y:}{y = -1 + 3x + e}
-#'   \item{y_star:}{y_star = 1 se y > 0; 0 otherwise}
-#'   \item{x}{}
+#' \itemize{
+#'   \item \strong{y:} y = -1 + 3x + e
+#'   \item \strong{y_star:} = 1 se y > 0; 0 otherwise
+#'   \item \strong{x}
 #' }
 #'
 #' @source  William E. Becker and Donald M. Waldman, “A Graphical Interpretation

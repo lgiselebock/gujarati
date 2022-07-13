@@ -4,12 +4,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_9_3)` rows and
 #' `r ncol(table_9_3)` variables:
-#' \describe{
-#'   \item{dish:}{dishwashers}
-#'   \item{disp:}{garbage disposers}
-#'   \item{frig:}{refrigerators}
-#'   \item{wash:}{washing machines}
-#'   \item{dur:}{durable goods expenditure, billions of 1982 dollas}
+#' \itemize{
+#'   \item \strong{dish:} dishwashers
+#'   \item \strong{disp:} garbage disposers
+#'   \item \strong{frig:} refrigerators
+#'   \item \strong{wash:} washing machines
+#'   \item \strong{dur:} durable goods expenditure, billions of 1982 dollas
 #' }
 #'
 #' @source Business Statistics and Survey of Current Business, Department of Commerce (various issues).

@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 15 rows and
 5 variables:
-\describe{
-\item{year_or_quarter}{}
-\item{expservices:}{expenditure on services, billions of 2000 dollars}
-\item{expdur:}{expenditure on durable goods, billions of 2000 dollars}
-\item{expnondur:}{expenditure on nondurable goods, billions of 2000 dollars}
-\item{pcexp:}{total personal consumption expenditure, billions of 2000 dollars}
+\itemize{
+\item \strong{year_quarter}
+\item \strong{expservices:} expenditure on services, billions of 2000 dollars
+\item \strong{expdur:} expenditure on durable goods, billions of 2000 dollars
+\item \strong{expnondur:} expenditure on nondurable goods, billions of 2000 dollars
+\item \strong{pcexp:} total personal consumption expenditure, billions of 2000 dollars
 }
 }
 \source{

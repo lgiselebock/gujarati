@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 3 variables:
-\describe{
-\item{X:}{income, thousands of $}
-\item{N:}{number of families at income, Xi}
-\item{n:}{number of families owning a house}
+\itemize{
+\item \strong{X:} income, thousands of $
+\item \strong{N:} number of families at income, Xi
+\item \strong{n:} number of families owning a house
 }
 }
 \source{

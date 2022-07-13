@@ -6,12 +6,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_6_2)` rows and
 #' `r ncol(table_6_2)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{gpdibl:}{gross private domestic investment, billions of 2000 dollars}
-#'   \item{gpdim:}{gross private domestic investment, millions of 2000 dollars}
-#'   \item{gdpb:}{gross domestic product, billions of 2000 dollars}
-#'   \item{gdpm:}{gross domestic product, millions of 2000 dollars}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{gpdibl:} gross private domestic investment, billions of 2000 dollars
+#'   \item \strong{gpdim:} gross private domestic investment, millions of 2000 dollars
+#'   \item \strong{gdpb:} gross domestic product, billions of 2000 dollars
+#'   \item \strong{gdpm:} gross domestic product, millions of 2000 dollars
 #' }
 #'
 #' @source Economic Report of the President, 2007, Table B-2, p. 328.

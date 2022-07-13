@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 81 rows and
 6 variables:
-\describe{
-\item{obs:}{car observation number (names of cars not disclosed)}
-\item{mpg:}{average miles per gallon}
-\item{sp:}{top speed, miler per hour}
-\item{hp:}{engine horsepower}
-\item{vol:}{cubic feet of cab space}
-\item{wt:}{vehicle weight, hundreds of pounds}
+\itemize{
+\item \strong{obs:} car observation number (names of cars not disclosed)
+\item \strong{mpg:} average miles per gallon
+\item \strong{sp:} top speed, miler per hour
+\item \strong{hp:} engine horsepower
+\item \strong{vol:} cubic feet of cab space
+\item \strong{wt:} vehicle weight, hundreds of pounds
 }
 }
 \source{

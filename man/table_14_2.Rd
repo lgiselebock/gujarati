@@ -7,9 +7,9 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 38 rows and
 2 variables:
-\describe{
-\item{year}{}
-\item{population}{}
+\itemize{
+\item \strong{year}
+\item \strong{population:} millions
 }
 }
 \source{
@@ -19,6 +19,6 @@ Economic Report of the President, 2008.
 table_14_2
 }
 \description{
-U.S. Population (Millions)
+Table 14.2 U.S. Population
 }
 \keyword{datasets}

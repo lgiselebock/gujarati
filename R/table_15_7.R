@@ -4,13 +4,13 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_7)` rows and
 #' `r ncol(table_15_7)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{gpa:}{entering grade point average}
-#'   \item{tuce:}{score on an examination given at the beginning of the term to test entering knowledge of macroeconomics}
-#'   \item{psi:}{personal system of instruction; psi = 1 if the new method is used, psi = 0 otherwise}
-#'   \item{grade:}{grade = 1 if the letter grade is A, grade = 0 otherwise}
-#'   \item{letter:}{letter grade}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{gpa:} entering grade point average
+#'   \item \strong{tuce:} score on an examination given at the beginning of the term to test entering knowledge of macroeconomics
+#'   \item \strong{psi:} personal system of instruction; = 1 if the new method is used, = 0 otherwise
+#'   \item \strong{grade:} = 1 if the letter grade is A, = 0 otherwise
+#'   \item \strong{letter:} letter grade
 #' }
 #'
 #' @source L. Spector and M. Mazzeo, “Probit Analysis and Economic Education,”

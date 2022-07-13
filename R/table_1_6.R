@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_1_6)` rows and
 #' `r ncol(table_1_6)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{firm}{}
-#'   \item{impressions:}{in millions}
-#'   \item{expenditure:}{in millions of 1983 dollars}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{firm}
+#'   \item \strong{impressions:} in millions
+#'   \item \strong{expenditure:} in millions of 1983 dollars
 #' }
 #'
 #' @source \url{http://lib.stat.cmu.edu/DASL/Dataﬁles/tvadsdat.html}

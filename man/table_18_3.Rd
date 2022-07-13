@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 296 rows and
 6 variables:
-\describe{
-\item{obs:}{observation}
-\item{year_quarter}{}
-\item{carsales:}{millions of cars per year}
-\item{persincome:}{(personal income, billions of dollars}
-\item{pricegas:}{cents per gallon}
-\item{quantgas:}{thousands of barrels per day, unleaded}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{year_quarter}
+\item \strong{carsales:} millions of cars per year
+\item \strong{persincome:} personal income, billions of dollars
+\item \strong{pricegas:} cents per gallon
+\item \strong{quantgas:} thousands of barrels per day, unleaded
 }
 }
 \source{

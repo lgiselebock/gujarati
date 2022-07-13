@@ -5,11 +5,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_10_13)` rows and
 #' `r ncol(table_10_13)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{cpi:}{consumer price index}
-#'   \item{gdp:}{gross domestic product}
-#'   \item{imports}{}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{cpi:} consumer price index
+#'   \item \strong{gdp:} gross domestic product
+#'   \item \strong{imports}
 #' }
 #'
 #' @source Department of Labor, Bureau of Labor Statistics.

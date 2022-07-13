@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 240 rows and
 3 variables:
-\describe{
-\item{obs:}{year and month}
-\item{Y:}{excess returns (Yt, \%)}
-\item{X:}{excess returns (Xt, \%)}
+\itemize{
+\item \strong{obs:} year and month
+\item \strong{Y:} excess returns (Yt, \%)
+\item \strong{X:} excess returns (Xt, \%)
 }
 }
 \source{

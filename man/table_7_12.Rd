@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 54 rows and
 5 variables:
-\describe{
-\item{year:}{calendar year}
-\item{c:}{real consumption expenditure in billions of chained 1996 dollars}
-\item{yd:}{real personal disposable income in billions of chained 1996 dollars}
-\item{wealth:}{real wealth in billions of chained 1996 dollars}
-\item{interest_rate:}{nominal annual yield on 3-month Treasury securities–inﬂation rate (measured by the annual \% change in annual chained price index)}
+\itemize{
+\item \strong{year:} calendar year
+\item \strong{c:} real consumption expenditure in billions of chained 1996 dollars
+\item \strong{yd:} real personal disposable income in billions of chained 1996 dollars
+\item \strong{wealth:} real wealth in billions of chained 1996 dollars
+\item \strong{interest_rate:}nominal annual yield on 3-month Treasury securities–inﬂation rate (measured by the annual \% change in annual chained price index)
 }
 }
 \source{

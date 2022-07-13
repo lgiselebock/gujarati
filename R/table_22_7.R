@@ -5,11 +5,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_22_7)` rows and
 #' `r ncol(table_22_7)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{month}{}
-#'   \item{tb3m:}{three-month treasury bill rate}
-#'   \item{tb6m:}{six-month treasury bill rate}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{month}
+#'   \item \strong{tb3m:} three-month treasury bill rate
+#'   \item \strong{tb6m:} six-month treasury bill rate
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

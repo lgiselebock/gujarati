@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 3 variables:
-\describe{
-\item{student}{}
-\item{midterm}{}
-\item{final}{}
+\itemize{
+\item \strong{student}
+\item \strong{midterm}
+\item \strong{final}
 }
 }
 \source{

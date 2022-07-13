@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 26 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{savings:}{billions of dollars}
-\item{income:}{billions of dollars}
-\item{dum:}{1 for observations beginning in 1982; 0 otherwise}
+\itemize{
+\item \strong{year}
+\item \strong{savings:} billions of dollars
+\item \strong{income:} billions of dollars
+\item \strong{dum:} 1 for observations beginning in 1982; 0 otherwise
 }
 }
 \source{

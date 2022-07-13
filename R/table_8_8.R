@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_8_8)` rows and
 #' `r ncol(table_8_8)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{gdp:}{millions of 1960 pesos}
-#'   \item{employment:}{thousands of people}
-#'   \item{capital:}{fixed capital, millions of 1960 pesos}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{gdp:} millions of 1960 pesos
+#'   \item \strong{employment:} thousands of people
+#'   \item \strong{capital:} fixed capital, millions of 1960 pesos
 #' }
 #'
 #' @source Victor J. Elias, Sources of Growth: A Study of Seven Latin American Economies,

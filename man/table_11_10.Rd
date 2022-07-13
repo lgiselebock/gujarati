@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 447 rows and
 7 variables:
-\describe{
-\item{salary:}{1999 salary and bonuses}
-\item{totcomp:}{1999 CEO total compensation}
-\item{tenure:}{number of years as CEO (0 if less than 6 months)}
-\item{age:}{age of CEO}
-\item{sales:}{total 1998 sales revenue of the firm}
-\item{profits:}{1998 profits for the firm}
-\item{assets:}{total assets of the firm in 1998}
+\itemize{
+\item \strong{salary:} 1999 salary and bonuses
+\item \strong{totcomp:} 1999 CEO total compensation
+\item \strong{tenure:} number of years as CEO (0 if less than 6 months)
+\item \strong{age:} age of CEO
+\item \strong{sales:} total 1998 sales revenue of the firm
+\item \strong{profits:} 1998 profits for the firm
+\item \strong{assets:} total assets of the firm in 1998
 }
 }
 \source{

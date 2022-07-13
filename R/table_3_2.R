@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_3_2)` rows and
 #' `r ncol(table_3_2)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{y:}{mean hourly wage}
-#'   \item{x}{years of schooling}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{y:} mean hourly wage
+#'   \item \strong{x:} years of schooling
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

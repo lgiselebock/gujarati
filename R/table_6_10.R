@@ -4,18 +4,17 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_6_10)` rows and
 #' `r ncol(table_6_10)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{product:}{product category}
-#'   \item{adexp:}{advertising expenditure (£, millions)}
-#'   \item{conexp:}{total consumer expenditure (£, millions)}
-#'   \item{ratio:}{(adexp)/(conexp*1000)}
-#'   \item{ln_adexp:}{natural log (ln) of advertising expenditure}
-#'   \item{ln_conexp:}{natural log (ln) of total consumer expenditure}
-#'   \item{1/adexp:}{}
-#'   \item{1/conexp:}{}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{product:} product category
+#'   \item \strong{adexp:} advertising expenditure (£, millions)
+#'   \item \strong{conexp:} total consumer expenditure (£, millions)
+#'   \item \strong{ratio:} (adexp)/(conexp*1000)
+#'   \item \strong{lnadexp:} natural log (ln) of advertising expenditure
+#'   \item \strong{lnconexp:} natural log (ln) of total consumer expenditure
+#'   \item \strong{1/adexp:}
+#'   \item \strong{1/conexp:}
 #' }
 #'
-#' @source Advertising Statistics Yearbook 1996
-#' \url{http://www.economicswebinstitute.org/ecdata.htm}
+#' @source Advertising Statistics Yearbook 1996 \url{http://www.economicswebinstitute.org/ecdata.htm}
 "table_6_10"

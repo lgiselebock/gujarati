@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 51 rows and
 4 variables:
-\describe{
-\item{area}{}
-\item{y:}{output value added (thousands of $)}
-\item{x1:}{labor input worker hrs (thousands)}
-\item{x2:}{capital input capital expenditure (thousands of $)}
+\itemize{
+\item \strong{area}
+\item \strong{y:} output value added (thousands of $)
+\item \strong{x1:} labor input worker hrs (thousands)
+\item \strong{x2:} capital input capital expenditure (thousands of $)
 }
 }
 \source{

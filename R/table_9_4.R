@@ -4,12 +4,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_9_4)` rows and
 #' `r ncol(table_9_4)` variables:
-#' \describe{
-#'   \item{frig:}{refrigerator sales, thousands}
-#'   \item{dur:}{durable goods expenditure, billions of 1982 dollars}
-#'   \item{d2:}{1 in the second quarter, 0 otherwise}
-#'   \item{d3:}{1 in the third quarter, 0 otherwise}
-#'   \item{d4:}{1 in the fourth quarter, 0 otherwise}
+#' \itemize{
+#'   \item \strong{frig:} refrigerator sales, thousands
+#'   \item \strong{dur:} durable goods expenditure, billions of 1982 dollars
+#'   \item \strong{d2:} 1 in the second quarter, 0 otherwise
+#'   \item \strong{d3:} 1 in the third quarter, 0 otherwise
+#'   \item \strong{d4:} 1 in the fourth quarter, 0 otherwise
 #' }
 #'
 #' @source Business Statistics and Survey of Current Business, Department of Commerce (various issues).

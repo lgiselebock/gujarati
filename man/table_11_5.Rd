@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 14 rows and
 5 variables:
-\describe{
-\item{obs:}{observations}
-\item{industry}{}
-\item{sales}{millions of dollars}
-\item{rd}{millions of dollars}
-\item{profits}{millions of dollars}
+\itemize{
+\item \strong{obs:} observations
+\item \strong{industry}
+\item \strong{sales:} millions of dollars
+\item \strong{rd:} millions of dollars
+\item \strong{profits:} millions of dollars
 }
 }
 \source{

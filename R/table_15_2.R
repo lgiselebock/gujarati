@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_2)` rows and
 #' `r ncol(table_15_2)` variables:
-#' \describe{
-#'   \item{y:}{actual y}
-#'   \item{y_hat:}{estimated y}
-#'   \item{w_hat:}{weights}
-#'   \item{sqrt_w:}{square root weights}
+#' \itemize{
+#'   \item \strong{y:} actual y
+#'   \item \strong{y_hat:} estimated y
+#'   \item \strong{w_hat:} weights
+#'   \item \strong{sqrt_w:} square root weights
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

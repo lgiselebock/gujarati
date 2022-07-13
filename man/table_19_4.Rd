@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 37 rows and
 5 variables:
-\describe{
-\item{obs:}{observation, year}
-\item{m2:}{M2 money supply (billions of dollars).}
-\item{gdp:}{gross domestic product (billions of dollars)}
-\item{tbrate:}{3-month Treasury bill rate, \%.}
-\item{cpi:}{consumer Price Index (1982–1984 = 100).}
+\itemize{
+\item \strong{obs:} observation, year
+\item \strong{m2:} M2 money supply (billions of dollars)
+\item \strong{gdp:} gross domestic product (billions of dollars)
+\item \strong{tbrate:} 3-month Treasury bill rate, \%
+\item \strong{cpi:} consumer price index (1982–1984 = 100)
 }
 }
 \source{

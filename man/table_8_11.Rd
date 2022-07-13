@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 36 rows and
 3 variables:
-\describe{
-\item{year}{}
-\item{savings}{}
-\item{income}{}
+\itemize{
+\item \strong{year}
+\item \strong{savings}
+\item \strong{income}
 }
 }
 \source{

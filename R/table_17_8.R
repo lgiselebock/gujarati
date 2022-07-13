@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_17_8)` rows and
 #' `r ncol(table_17_8)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{inventory:}{in millions of dollars, seasonally adjusted}
-#'   \item{sales:}{in millions of dollars, seasonally adjusted}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{inventory:} in millions of dollars, seasonally adjusted
+#'   \item \strong{sales:} in millions of dollars, seasonally adjusted
 #' }
 #'
 #' @source Economic Report of the President, 2001, Table B-57, p. 340.

@@ -7,16 +7,15 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 81 rows and
 5 variables:
-\describe{
-\item{firm}{}
-\item{year}{}
-\item{i:}{gross investment = additions to plant and equipment plus maintenance and repairs, in millions of dollar deflated by p1.}
-\item{f:}{value of the firm = price of common and preferred shares at Dec. 31 (or average price of Dec. 31 and Jan. 31 of the following year) times number of common and preferred shares outstanding plus total book value of debt at Dec. 31, in millions of dollar deflated by p2.}
-\item{c:}{stock of plant and equipment = accumulated sum of net additions to plant and equipment deflated by p1 minus depreciation allowance deflated by p3 in these definitions.}
-\item{p1:}{implicit price deflator of producers' durable equipment (1947 = 100).}
-\item{p2:}{implicit price deflator of GNP (1947 = 100).}
-\item{p3:}{depreciation expense deflator = 10-year moving average of wholesale
-price index of metals and metal products (1947 = 100).}
+\itemize{
+\item \strong{firm}
+\item \strong{year}
+\item \strong{i:} gross investment = additions to plant and equipment plus maintenance and repairs, in millions of dollar deflated by p1
+\item \strong{f:} value of the firm = price of common and preferred shares at Dec. 31 (or average price of Dec. 31 and Jan. 31 of the following year) times number of common and preferred shares outstanding plus total book value of debt at Dec. 31, in millions of dollar deflated by p2
+\item \strong{c:} stock of plant and equipment = accumulated sum of net additions to plant and equipment deflated by p1 minus depreciation allowance deflated by p3 in these definitions
+\item \strong{p1:} implicit price deflator of producers' durable equipment (1947 = 100)
+\item \strong{p2:} implicit price deflator of GNP (1947 = 100)
+\item \strong{p3:} depreciation expense deflator = 10-year moving average of wholesale price index of metals and metal products (1947 = 100)
 }
 }
 \source{

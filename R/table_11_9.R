@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_11_9)` rows and
 #' `r ncol(table_11_9)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{country}{}
-#'   \item{y:}{stock prices; rate of change, % per year}
-#'   \item{x:}{consumer prices; rate of change, % per year}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{country}
+#'   \item \strong{y:} stock prices; rate of change, % per year
+#'   \item \strong{x:} consumer prices; rate of change, % per year
 #' }
 #'
 #' @source  Phillip Cagan, Common Stock Values and Inﬂation:

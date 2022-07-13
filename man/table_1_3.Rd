@@ -7,15 +7,15 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 26 rows and
 8 variables:
-\describe{
-\item{year}{}
-\item{usa}{}
-\item{canada}{}
-\item{japan}{}
-\item{france}{}
-\item{germany}{}
-\item{italy}{}
-\item{uk}{}
+\itemize{
+\item \strong{year}
+\item \strong{usa}
+\item \strong{canada}
+\item \strong{japan}
+\item \strong{france}
+\item \strong{germany}
+\item \strong{italy}
+\item \strong{uk}
 }
 }
 \source{

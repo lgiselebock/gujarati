@@ -1,11 +1,11 @@
-#' Table 5.11
+#' Table 14.4
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_14_4)` rows and
 #' `r ncol(table_14_4)` variables:
-#' \describe{
-#'   \item{occupation}{}
-#'   \item{smoking}{}
-#'   \item{cancer}{}
+#' \itemize{
+#'   \item \strong{occupation}
+#'   \item \strong{smoking}
+#'   \item \strong{cancer}
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

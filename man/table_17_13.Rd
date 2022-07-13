@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 36 rows and
 6 variables:
-\describe{
-\item{year}{}
-\item{pc:}{real desired private consumption expenditure}
-\item{pdi:}{real private disposable income}
-\item{grossinv}{}
-\item{gnp}{}
-\item{lti:}{long-term interest rate}
+\itemize{
+\item \strong{year}
+\item \strong{pc:} real desired private consumption expenditure
+\item \strong{pdi:} real private disposable income
+\item \strong{grossinv}
+\item \strong{gnp}
+\item \strong{lti:} long-term interest rate
 }
 }
 \source{

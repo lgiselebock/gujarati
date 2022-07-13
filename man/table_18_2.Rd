@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 37 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{c:}{personal consumption expenditure}
-\item{i:}{gross private domestic investment}
-\item{y:}{gross domestic product}
+\itemize{
+\item \strong{year}
+\item \strong{c:} personal consumption expenditure
+\item \strong{i:} gross private domestic investment
+\item \strong{y:} gross domestic product
 }
 }
 \source{

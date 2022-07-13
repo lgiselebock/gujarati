@@ -7,15 +7,15 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 12 rows and
 8 variables:
-\describe{
-\item{year_quarter:}{}
-\item{a:}{1-10}
-\item{b:}{10-25}
-\item{c:}{25-50}
-\item{d:}{50-100}
-\item{e:}{100-250}
-\item{f:}{250-1,000}
-\item{g:}{1,000 +}
+\itemize{
+\item \strong{year_quarter}
+\item \strong{a:} 1-10
+\item \strong{b:} 10-25
+\item \strong{c:} 25-50
+\item \strong{d:} 50-100
+\item \strong{e:} 100-250
+\item \strong{f:} 250-1,000
+\item \strong{g:} 1,000 +
 }
 }
 \source{

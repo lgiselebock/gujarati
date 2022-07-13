@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 46 rows and
 3 variables:
-\describe{
-\item{year}{}
-\item{inventory:}{in millions of dollars, seasonally adjusted}
-\item{sales:}{in millions of dollars, seasonally adjusted}
+\itemize{
+\item \strong{year}
+\item \strong{inventory:} in millions of dollars, seasonally adjusted
+\item \strong{sales:} in millions of dollars, seasonally adjusted
 }
 }
 \source{

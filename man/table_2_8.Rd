@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 55 rows and
 3 variables:
-\describe{
-\item{obs:}{observation}
-\item{foodexp:}{food expenditure}
-\item{totalexp:}{total expenditure}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{foodexp:} food expenditure
+\item \strong{totalexp:} total expenditure
 }
 }
 \source{

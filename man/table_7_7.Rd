@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 31 rows and
 6 variables:
-\describe{
-\item{y:}{number of wildcats drilled, thousands}
-\item{x2:}{per barrel price, in constant $, 1972=100}
-\item{x3:}{domestic output (millions of barrels per day)}
-\item{x4:}{GNP, constant $ billions, 1972=100}
-\item{x5:}{time: 1948 = 1, 1949 = 2, ... 1977 = 30, 1978 = 31}
-\item{year}{}
+\itemize{
+\item \strong{y:} number of wildcats drilled, thousands
+\item \strong{x2:} per barrel price, in constant $, 1972=100
+\item \strong{x3:} domestic output (millions of barrels per day)
+\item \strong{x4:} GNP, constant $ billions, 1972=100
+\item \strong{x5:} time: 1948 = 1, 1949 = 2, ... 1977 = 30, 1978 = 31
+\item \strong{year}
 }
 }
 \source{

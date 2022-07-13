@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_1)` rows and
 #' `r ncol(table_15_1)` variables:
-#' \describe{
-#'   \item{family}{}
-#'   \item{y:}{home ownership; 1 = owns a house, 0 = does not own a house}
-#'   \item{x:}{family income, thousands of $}
+#' \itemize{
+#'   \item \strong{family}
+#'   \item \strong{y:} home ownership; 1 = owns a house, 0 = does not own a house
+#'   \item \strong{x:} family income, thousands of $
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

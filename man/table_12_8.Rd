@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 15 rows and
 4 variables:
-\describe{
-\item{y:}{personal consumption expenditure, $, billions of 1958}
-\item{x:}{time; 1 = 1956, ..., 15 = 1970}
-\item{y_hat:}{estimated y}
-\item{u:}{residuals}
+\itemize{
+\item \strong{y:} personal consumption expenditure, $, billions of 1958
+\item \strong{x:} time; 1 = 1956, ..., 15 = 1970
+\item \strong{y_hat:} estimated y
+\item \strong{u:} residuals
 }
 }
 \source{

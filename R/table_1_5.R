@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_1_5)` rows and
 #' `r ncol(table_1_5)` variables:
-#' \describe{
-#'   \item{year_month}{}
-#'   \item{year}{}
-#'   \item{month}{}
-#'   \item{m1:}{money stock; billions of dollars}
+#' \itemize{
+#'   \item \strong{year_month}
+#'   \item \strong{year}
+#'   \item \strong{month}
+#'   \item \strong{m1:} money stock; billions of dollars
 #' }
 #'
 #' @source Board of Governors, Federal Reserve Bank, USA.

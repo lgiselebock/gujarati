@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 36 rows and
 7 variables:
-\describe{
-\item{year}{}
-\item{cr_male:}{male in critical reading}
-\item{cr_female:}{female in critical reading}
-\item{cr_total:}{total in critical reading}
-\item{m_male:}{male in mathematics}
-\item{m_female:}{female in mathematics}
-\item{m_total:}{total in mathematics}
+\itemize{
+\item \strong{year}
+\item \strong{cr_male:} male in critical reading
+\item \strong{cr_female:} female in critical reading
+\item \strong{cr_total:} total in critical reading
+\item \strong{m_male:} male in mathematics
+\item \strong{m_female:} female in mathematics
+\item \strong{m_total:} total in mathematics
 }
 }
 \source{
@@ -26,8 +26,8 @@ table_2_9
 \description{
 Total Group Mean SAT Reasoning Test Scores: College-Bound Seniors, 1972-2007
 }
-\details{
-Note: For 1972–1986 a formula was applied to the original mean and standard deviation
+\note{
+For 1972–1986 a formula was applied to the original mean and standard deviation
 to convert the mean to the recentered scale. For 1987–1995 individual student scores
 were converted to the recentered scale and then the mean was recomputed.
 From 1996–1999, nearly all students received scores on the recentered scale.

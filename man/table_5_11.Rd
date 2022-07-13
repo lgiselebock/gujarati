@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 25 rows and
 3 variables:
-\describe{
-\item{occupation}{}
-\item{smoking}{}
-\item{cancer}{}
+\itemize{
+\item \strong{occupation}
+\item \strong{smoking}
+\item \strong{cancer}
 }
 }
 \source{

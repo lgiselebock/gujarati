@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 28 rows and
 4 variables:
-\describe{
-\item{obs:}{observation; year}
-\item{rr:}{real rate of return on common stocks at time, \%}
-\item{growth:}{output growth in period (t + 1), \%}
-\item{inflation:}{inflation in period t(Inft), \%}
+\itemize{
+\item \strong{obs:} observation; year
+\item \strong{rr:} real rate of return on common stocks at time, \%
+\item \strong{growth:} output growth in period (t + 1), \%
+\item \strong{inflation:} inflation in period t(Inft), \%
 }
 }
 \source{

@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 324 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{month}{}
-\item{tb3m:}{three-month treasury bill rate}
-\item{tb6m:}{six-month treasury bill rate}
+\itemize{
+\item \strong{year}
+\item \strong{month}
+\item \strong{tb3m:} three-month treasury bill rate
+\item \strong{tb6m:} six-month treasury bill rate
 }
 }
 \source{

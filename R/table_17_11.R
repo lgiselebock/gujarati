@@ -6,11 +6,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_17_11)` rows and
 #' `r ncol(table_17_11)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{investment:}{private ﬁxed investment in information processing equipment and software, billions of dollars, seasonally adjusted}
-#'   \item{sales:}{sales in total manufacturing and trade, millions of dollars, seasonally adjusted}
-#'   \item{interest:}{ Moody’s Aaa corporate bond rate, %}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{investment:} private ﬁxed investment in information processing equipment and software, billions of dollars, seasonally adjusted
+#'   \item \strong{sales:} sales in total manufacturing and trade, millions of dollars, seasonally adjusted
+#'   \item \strong{interest:} Moody’s Aaa corporate bond rate, %
 #' }
 #'
 #' @source Economic Report of the President, 2001, Tables B-18, B-57, and B-73.

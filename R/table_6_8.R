@@ -5,10 +5,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_6_8)` rows and
 #' `r ncol(table_6_8)` variables:
-#' \describe{
-#'   \item{country}{}
-#'   \item{savrate:}{savings as a ratio of GDP}
-#'   \item{invrate:}{investment expenditure as a ration of GDP}
+#' \itemize{
+#'   \item \strong{country}
+#'   \item \strong{savrate:} savings as a ratio of GDP
+#'   \item \strong{invrate:} investment expenditure as a ration of GDP
 #' }
 #'
 #' @source FELDSTEIN, Martin; HORIOKA, Charles. “Domestic Saving and International Capital Flows,”

@@ -5,12 +5,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_10_7)` rows and
 #' `r ncol(table_10_7)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{c:}{consume expenditure}
-#'   \item{yd:}{real disposable personal income}
-#'   \item{w:}{real wealth}
-#'   \item{i:}{real interest rate}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{c:} consume expenditure
+#'   \item \strong{yd:} real disposable personal income
+#'   \item \strong{w:} real wealth
+#'   \item \strong{i:} real interest rate
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

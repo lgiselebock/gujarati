@@ -6,12 +6,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_10_18)` rows and
 #' `r ncol(table_10_18)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{taste:}{}
-#'   \item{acetic:}{the natural logarithm of concentration of acetic acid}
-#'   \item{h2s:}{the natural logarithm of concentration of hydrogen sulfide}
-#'   \item{lactic:}{}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{taste}
+#'   \item \strong{acetic:} the natural logarithm of concentration of acetic acid
+#'   \item \strong{h2s:} the natural logarithm of concentration of hydrogen sulfide
+#'   \item \strong{lactic:}
 #' }
 #'
 #' @source \url{http://lib.stat.cmu.edu/DASL/Dataﬁles/Cheese.html}

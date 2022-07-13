@@ -4,9 +4,9 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_9_6)` rows and
 #' `r ncol(table_9_6)` variables:
-#' \describe{
-#'   \item{total_cost:}{dollars}
-#'   \item{output:}{units}
+#' \itemize{
+#'   \item \strong{total_cost:} dollars
+#'   \item \strong{output:} units
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

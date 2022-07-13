@@ -2,9 +2,9 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_6_7)` rows and
 #' `r ncol(table_6_7)` variables:
-#' \describe{
-#'   \item{y}{}
-#'   \item{x}{}
+#' \itemize{
+#'   \item \strong{y}
+#'   \item \strong{x}
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

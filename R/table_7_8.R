@@ -4,13 +4,13 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_7_8)` rows and
 #' `r ncol(table_7_8)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{y:}{defense budget outlays}
-#'   \item{x2:}{GNP}
-#'   \item{x3:}{U.S. Military sales/assistance}
-#'   \item{x4:}{aerospace industry sales}
-#'   \item{x5:}{conflicts 100,000+}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{y:} defense budget outlays
+#'   \item \strong{x2:} GNP
+#'   \item \strong{x3:} U.S. Military sales/assistance
+#'   \item \strong{x4:} aerospace industry sales
+#'   \item \strong{x5:} conflicts 100,000+
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

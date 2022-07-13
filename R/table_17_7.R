@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_17_7)` rows and
 #' `r ncol(table_17_7)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{pcon:}{private consumption expenditure}
-#'   \item{gdp:}{gross domestic product}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{pcon:} private consumption expenditure
+#'   \item \strong{gdp:} gross domestic product
 #' }
 #'
 #' @source Chandan Mukherjee, Howard White, and Marc Wuyts. Econometrics and Data Analysis for

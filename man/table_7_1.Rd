@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 11 rows and
 3 variables:
-\describe{
-\item{year}{}
-\item{y:}{cups per person per day}
-\item{x:}{average real retail price, $ per pound}
+\itemize{
+\item \strong{year}
+\item \strong{y:} cups per person per day
+\item \strong{x:} average real retail price, $ per pound
 }
 }
 \source{
@@ -23,6 +23,8 @@ table_7_1
 }
 \description{
 U.S. Coffee Consumption (Y) in Relation to Average Real Retail Price (X), 1970–1980.
-Note: The nominal price was divided by the Consumer Price Index (CPI) for food and beverages, 1967 = 100.
+}
+\note{
+The nominal price was divided by the Consumer Price Index (CPI) for food and beverages, 1967 = 100.
 }
 \keyword{datasets}

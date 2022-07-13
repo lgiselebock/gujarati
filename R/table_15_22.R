@@ -5,12 +5,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_22)` rows and
 #' `r ncol(table_15_22)` variables:
-#' \describe{
-#'   \item{x:}{concentration, milligrams per liter}
-#'   \item{log_x:}{concentration, milligrams per liter}
-#'   \item{Ni:}{total}
-#'   \item{ni:}{death}
-#'   \item{p_hat:}{ni/Ni}
+#' \itemize{
+#'   \item \strong{x:} concentration, milligrams per liter
+#'   \item \strong{log_x:} concentration, milligrams per liter
+#'   \item \strong{Ni:} total
+#'   \item \strong{ni:} death
+#'   \item \strong{p_hat:} ni/Ni
 #' }
 #'
 #' @source D. J. Fennet, Probit Analysis, Cambridge University Press, London, 1964.

@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 12 rows and
 3 variables:
-\describe{
-\item{obs:}{observation}
-\item{y:}{fee, \%}
-\item{x:}{net asset value, billions of dollars}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{y:} fee, \%
+\item \strong{x:} net asset value, billions of dollars
 }
 }
 \source{

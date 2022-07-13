@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 51 rows and
 5 variables:
-\describe{
-\item{year_quarter:}{year and quarter}
-\item{un:}{unemployment rate, \%}
-\item{v:}{job vacancy rate, \%}
-\item{d:}{1, for period beginning in 1966-IV}
-\item{dv:}{v when d = 1}
+\itemize{
+\item \strong{year_quarter:} year and quarter
+\item \strong{un:} unemployment rate, \%
+\item \strong{v:} job vacancy rate, \%
+\item \strong{d:} 1, for period beginning in 1966-IV
+\item \strong{dv:} v when d = 1
 }
 }
 \source{
@@ -23,6 +23,6 @@ Great Britain, 1958–1971,” The Economic Journal, vol. 82, March 1972, p. 202
 table_9_8
 }
 \description{
-Data Matrix for Regression
+Table 9.8 Data Matrix for Regression
 }
 \keyword{datasets}

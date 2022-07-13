@@ -7,22 +7,22 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 2000 rows and
 15 variables:
-\describe{
-\item{c1}{}
-\item{c2}{}
-\item{u}{}
-\item{v}{}
-\item{county}{}
-\item{age}{}
-\item{education:}{number of years of schooling}
-\item{married:}{married = 1, married; married = 0, otherwise}
-\item{children:}{number of children}
-\item{select}{}
-\item{wagefull}{}
-\item{wage}{}
-\item{lw}{}
-\item{work}{work = 1, woman works; work = 0, otherwise}
-\item{lwf}{}
+\itemize{
+\item \strong{c1}
+\item \strong{c2}
+\item \strong{u}
+\item \strong{v}
+\item \strong{county}
+\item \strong{age}
+\item \strong{education:} number of years of schooling
+\item \strong{married:} = 1, married; = 0, otherwise
+\item \strong{children:} number of children
+\item \strong{select}
+\item \strong{wagefull}
+\item \strong{wage}
+\item \strong{lw}
+\item \strong{work} = 1, woman works; = 0, otherwise
+\item \strong{lwf}
 }
 }
 \source{

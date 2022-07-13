@@ -1,13 +1,11 @@
 #' Table 5.11 Hypothetical Data on Y, X2, and X3
 #'
-#' Hypothetical Data on Y, X2, and X3
-#'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_10_4)` rows and
 #' `r ncol(table_10_4)` variables:
-#' \describe{
-#'   \item{y}{}
-#'   \item{x2}{}
-#'   \item{x3}{}
+#' \itemize{
+#'   \item \strong{y}
+#'   \item \strong{x2}
+#'   \item \strong{x3}
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

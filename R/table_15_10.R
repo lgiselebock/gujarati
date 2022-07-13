@@ -4,9 +4,9 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_10)` rows and
 #' `r ncol(table_15_10)` variables:
-#' \describe{
-#'   \item{p_hat}{}
-#'   \item{i:}{I = F^(-1) * p_hat}
+#' \itemize{
+#'   \item \strong{p_hat}
+#'   \item \strong{i:} I = F^(-1) * p_hat
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

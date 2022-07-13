@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 21 rows and
 3 variables:
-\describe{
-\item{country}{}
-\item{savrate:}{savings as a ratio of GDP}
-\item{invrate:}{investment expenditure as a ration of GDP}
+\itemize{
+\item \strong{country}
+\item \strong{savrate:} savings as a ratio of GDP
+\item \strong{invrate:} investment expenditure as a ration of GDP
 }
 }
 \source{

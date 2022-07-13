@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 30 rows and
 5 variables:
-\describe{
-\item{obs:}{observation}
-\item{taste:}{}
-\item{acetic:}{the natural logarithm of concentration of acetic acid}
-\item{h2s:}{the natural logarithm of concentration of hydrogen sulfide}
-\item{lactic:}{}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{taste}
+\item \strong{acetic:} the natural logarithm of concentration of acetic acid
+\item \strong{h2s:} the natural logarithm of concentration of hydrogen sulfide
+\item \strong{lactic:}
 }
 }
 \source{

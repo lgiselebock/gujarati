@@ -7,17 +7,17 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 22 rows and
 10 variables:
-\describe{
-\item{year}{}
-\item{c:}{consumption expenditure}
-\item{p:}{profits}
-\item{w:}{private wage bill}
-\item{i:}{investment expenditure}
-\item{k-1:}{capital stock}
-\item{x:}{income after tax}
-\item{w':}{government wage bill}
-\item{g:}{government expenditure}
-\item{t:}{taxes}
+\itemize{
+\item \strong{year}
+\item \strong{c:} consumption expenditure
+\item \strong{p:} profits
+\item \strong{w:} private wage bill
+\item \strong{i:} investment expenditure
+\item \strong{k-1:} capital stock
+\item \strong{x:} income after tax
+\item \strong{w':} government wage bill
+\item \strong{g:} government expenditure
+\item \strong{t:} taxes
 }
 }
 \source{

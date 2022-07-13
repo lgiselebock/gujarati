@@ -4,9 +4,9 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_2_5)` rows and
 #' `r ncol(table_2_5)` variables:
-#' \describe{
-#'   \item{y}{}
-#'   \item{x}{}
+#' \itemize{
+#'   \item \strong{y}
+#'   \item \strong{x}
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

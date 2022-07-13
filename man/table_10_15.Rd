@@ -7,17 +7,17 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 35 rows and
 10 variables:
-\describe{
-\item{obs:}{observation}
-\item{hours:}{average hours worked during the year}
-\item{rate:}{average hourly wage (dollars)}
-\item{ersp:}{ average yearly earnings of spouse (dollars)}
-\item{erno:}{average yearly earnings of other family members (dollars)}
-\item{nein:}{average yearly nonearned income}
-\item{assets:}{average family asset holdings (bank account, etc.) (dollars)}
-\item{age:}{average age of respondent}
-\item{dep:}{average number of dependents}
-\item{school:}{average highest grade of school completed}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{hours:} average hours worked during the year
+\item \strong{rate:} average hourly wage (dollars)
+\item \strong{ersp:} average yearly earnings of spouse (dollars)
+\item \strong{erno:} average yearly earnings of other family members (dollars)
+\item \strong{nein:} average yearly nonearned income
+\item \strong{assets:} average family asset holdings (bank account, etc.) (dollars)
+\item \strong{age:} average age of respondent
+\item \strong{dep:} average number of dependents
+\item \strong{school:} average highest grade of school completed
 }
 }
 \source{

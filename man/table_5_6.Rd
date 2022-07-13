@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 14 rows and
 6 variables:
-\describe{
-\item{year}{}
-\item{gnp:}{gross national product ($ billion)}
-\item{m1:}{currency + demand deposits + travelers checks and other checkable deposits (OCDs)}
-\item{m2:}{M1 + overnight RPs and Eurodollars + MMMF (Money market mutual fund) balances + MMDAs (Money market deposit accounts) + savings and small deposits}
-\item{m3:}{M2 + large time deposits + term RPs + institutional MMMF}
-\item{l:}{M3 + other liquid assets}
+\itemize{
+\item \strong{year}
+\item \strong{gnp:} gross national product ($ billion)
+\item \strong{m1:} currency + demand deposits + travelers checks and other checkable deposits (OCDs)
+\item \strong{m2:} M1 + overnight RPs and Eurodollars + MMMF (Money market mutual fund) balances + MMDAs (Money market deposit accounts) + savings and small deposits
+\item \strong{m3:} M2 + large time deposits + term RPs + institutional MMMF
+\item \strong{l:} M3 + other liquid assets
 }
 }
 \source{

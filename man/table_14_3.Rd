@@ -3,15 +3,15 @@
 \docType{data}
 \name{table_14_3}
 \alias{table_14_3}
-\title{Table 5.11 Production Function Data for the Mexican Economy}
+\title{Table 14.3 Production Function Data for the Mexican Economy}
 \format{
 A \link[tibble:tibble-package]{tibble} with 20 rows and
 4 variables:
-\describe{
-\item{obs:}{observation; year}
-\item{gdp:}{GDP is in millions of 1960 pesos}
-\item{labor:}{labor is in thousands of people}
-\item{capital:}{capital is in millions of 1960 pesos}
+\itemize{
+\item \strong{obs:} observation; year
+\item \strong{gdp:} GDP is in millions of 1960 pesos
+\item \strong{labor:} labor is in thousands of people
+\item \strong{capital:} capital is in millions of 1960 pesos
 }
 }
 \source{

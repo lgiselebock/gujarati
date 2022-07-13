@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 448 rows and
 4 variables:
-\describe{
-\item{yen_exchange:}{}
-\item{time:}{}
-\item{year}{}
-\item{month}{}
+\itemize{
+\item \strong{yen_exchange}
+\item \strong{time}
+\item \strong{year}
+\item \strong{month}
 }
 }
 \source{

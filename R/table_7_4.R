@@ -4,9 +4,9 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_7_4)` rows and
 #' `r ncol(table_7_4)` variables:
-#' \describe{
-#'   \item{x:}{output}
-#'   \item{y:}{total cost, $}
+#' \itemize{
+#'   \item \strong{x:} output
+#'   \item \strong{y:} total cost, $
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 40 rows and
 3 variables:
-\describe{
-\item{family}{}
-\item{y:}{home ownership; 1 = owns a house, 0 = does not own a house}
-\item{x:}{family income, thousands of $}
+\itemize{
+\item \strong{family}
+\item \strong{y:} home ownership; 1 = owns a house, 0 = does not own a house
+\item \strong{x:} family income, thousands of $
 }
 }
 \source{

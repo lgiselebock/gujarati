@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 31 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{cpi:}{consumer price index}
-\item{gdp:}{gross domestic product}
-\item{imports}{}
+\itemize{
+\item \strong{year}
+\item \strong{cpi:} consumer price index
+\item \strong{gdp:} gross domestic product
+\item \strong{imports}
 }
 }
 \source{

@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 32 rows and
 5 variables:
-\describe{
-\item{frig:}{refrigerator sales, thousands}
-\item{dur:}{durable goods expenditure, billions of 1982 dollars}
-\item{d2:}{1 in the second quarter, 0 otherwise}
-\item{d3:}{1 in the third quarter, 0 otherwise}
-\item{d4:}{1 in the fourth quarter, 0 otherwise}
+\itemize{
+\item \strong{frig:} refrigerator sales, thousands
+\item \strong{dur:} durable goods expenditure, billions of 1982 dollars
+\item \strong{d2:} 1 in the second quarter, 0 otherwise
+\item \strong{d3:} 1 in the third quarter, 0 otherwise
+\item \strong{d4:} 1 in the fourth quarter, 0 otherwise
 }
 }
 \source{

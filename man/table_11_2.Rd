@@ -7,16 +7,16 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 9 variables:
-\describe{
-\item{name:}{name of mutual fund}
-\item{Ei:}{average annual return, \%}
-\item{sigma_i:}{standard deviation of annual return, \%}
-\item{E_hat_i:}{obtained from the regression: Êi = 5.8194 + 0.4590 σi}
-\item{u_hat_i:}{residuals, (Ei - E_hat_i);  absolute value of the residuals}
-\item{rank_u_hat_i:}{the ranking is in ascending order of values}
-\item{rank_sigma_i:}{the ranking is in ascending order of values}
-\item{d:}{difference between two rankings}
-\item{d2:}{d^2}
+\itemize{
+\item \strong{name:} name of mutual fund
+\item \strong{Ei:} average annual return, \%
+\item \strong{sigma_i:} standard deviation of annual return, \%
+\item \strong{E_hat_i:} obtained from the regression: Êi = 5.8194 + 0.4590 σi
+\item \strong{u_hat_i:} residuals, (Ei - E_hat_i);  absolute value of the residuals
+\item \strong{rank_u_hat_i:} the ranking is in ascending order of values
+\item \strong{rank_sigma_i:} the ranking is in ascending order of values
+\item \strong{d:} difference between two rankings
+\item \strong{d2:} d^2
 }
 }
 \source{

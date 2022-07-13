@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_3_5)` rows and
 #' `r ncol(table_3_5)` variables:
-#' \describe{
-#'   \item{student}{}
-#'   \item{midterm}{}
-#'   \item{final}{}
+#' \itemize{
+#'   \item \strong{student}
+#'   \item \strong{midterm}
+#'   \item \strong{final}
 #' }
 #'
 #' @source Gujarati, Damodar N., and Dawn C. Porter. Basic Econometrics, 5th ed.

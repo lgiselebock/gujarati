@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_2_8)` rows and
 #' `r ncol(table_2_8)` variables:
-#' \describe{
-#'   \item{obs:}{observation}
-#'   \item{foodexp:}{food expenditure}
-#'   \item{totalexp:}{total expenditure}
+#' \itemize{
+#'   \item \strong{obs:} observation
+#'   \item \strong{foodexp:} food expenditure
+#'   \item \strong{totalexp:} total expenditure
 #' }
 #'
 #' @source Chandan Mukherjee, Howard White, and Marc Wuyts, Econometrics and

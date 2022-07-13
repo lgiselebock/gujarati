@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 22 rows and
 3 variables:
-\describe{
-\item{year}{}
-\item{y:}{plant expenditure, seasonally adjusted, billions of $}
-\item{x2:}{manufacturing sales, seasonally adjusted, billions of $}
+\itemize{
+\item \strong{year}
+\item \strong{y:} plant expenditure, seasonally adjusted, billions of $
+\item \strong{x2:} manufacturing sales, seasonally adjusted, billions of $
 }
 }
 \source{

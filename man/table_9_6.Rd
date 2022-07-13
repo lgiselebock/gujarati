@@ -7,9 +7,9 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 2 variables:
-\describe{
-\item{total_cost:}{dollars}
-\item{output:}{units}
+\itemize{
+\item \strong{total_cost:} dollars
+\item \strong{output:} units
 }
 }
 \source{

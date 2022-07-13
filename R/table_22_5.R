@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_22_5)` rows and
 #' `r ncol(table_22_5)` variables:
-#' \describe{
-#'   \item{time:}{1 = january 1969; 373 = january 200}
-#'   \item{hwi:}{help-wanted index}
-#'   \item{unrate:}{unemployment rate (%)}
+#' \itemize{
+#'   \item \strong{time:} 1 = january 1969; 373 = january 2000
+#'   \item \strong{hwi:} help-wanted index
+#'   \item \strong{unrate:} unemployment rate (%)
 #' }
 #'
 #' @source Marc A. Giammatteo (West Point, Class of 2000), “The Relationship between

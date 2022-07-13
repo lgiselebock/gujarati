@@ -7,18 +7,18 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 13 rows and
 11 variables:
-\describe{
-\item{obs:}{observation}
-\item{industry}{}
-\item{a:}{employment size (average number of employees) = 1-4}
-\item{b:}{employment size (average number of employees) = 5-9}
-\item{c:}{employment size (average number of employees) = 10-19}
-\item{d:}{employment size (average number of employees) = 20-49}
-\item{e:}{employment size (average number of employees) = 50-99}
-\item{f:}{employment size (average number of employees) = 100-249}
-\item{g:}{employment size (average number of employees) = 250-499}
-\item{h:}{employment size (average number of employees) = 500-999}
-\item{i:}{employment size (average number of employees) = 1,000-2,499}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{industry}
+\item \strong{a:} employment size (average number of employees) = 1-4
+\item \strong{b:} employment size (average number of employees) = 5-9
+\item \strong{c:} employment size (average number of employees) = 10-19
+\item \strong{d:} employment size (average number of employees) = 20-49
+\item \strong{e:} employment size (average number of employees) = 50-99
+\item \strong{f:} employment size (average number of employees) = 100-249
+\item \strong{g:} employment size (average number of employees) = 250-499
+\item \strong{h:} employment size (average number of employees) = 500-999
+\item \strong{i:} employment size (average number of employees) = 1,000-2,499
 }
 }
 \source{

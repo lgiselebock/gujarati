@@ -5,10 +5,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_8_11)` rows and
 #' `r ncol(table_8_11)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{savings}{}
-#'   \item{income}{}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{savings}
+#'   \item \strong{income}
 #' }
 #'
 #' @source Department of Commerce, Bureau of Economic Analysis.

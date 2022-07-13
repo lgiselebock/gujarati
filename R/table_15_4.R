@@ -5,10 +5,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_15_4)` rows and
 #' `r ncol(table_15_4)` variables:
-#' \describe{
-#'   \item{X:}{income, thousands of $}
-#'   \item{N:}{number of families at income, Xi}
-#'   \item{n:}{number of families owning a house}
+#' \itemize{
+#'   \item \strong{X:} income, thousands of $
+#'   \item \strong{N:} number of families at income, Xi
+#'   \item \strong{n:} number of families owning a house
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 47 rows and
 3 variables:
-\describe{
-\item{year}{}
-\item{ngdp:}{nominal gross domestic product; in billions of dollars}
-\item{rgdp:}{real gross domestic product; in billions of chained 2000 dollars}
+\itemize{
+\item \strong{year}
+\item \strong{ngdp:} nominal gross domestic product; in billions of dollars
+\item \strong{rgdp:} real gross domestic product; in billions of chained 2000 dollars
 }
 }
 \source{

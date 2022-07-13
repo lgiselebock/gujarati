@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 3 variables:
-\describe{
-\item{y:}{consumption expenditure}
-\item{x2:}{income}
-\item{x3:}{wealth}
+\itemize{
+\item \strong{y:} consumption expenditure
+\item \strong{x2:} income
+\item \strong{x3:} wealth
 }
 }
 \source{

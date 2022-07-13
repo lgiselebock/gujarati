@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 47 rows and
 6 variables:
-\describe{
-\item{country}{}
-\item{bmcplc:}{Big Mac Prices In Local Currency}
-\item{bmcpd:}{Big Mac Prices In Dollars}
-\item{ippp:}{implied PPP of the Dollar (PPP is Purchasing Power Parity)}
-\item{ader:}{actual Dollar exchange rate, Jan 31st}
-\item{u_o_vag:}{under (-) / over (+) valuation against the Dollar (\%)}
+\itemize{
+\item \strong{country}
+\item \strong{bmcplc:} Big Mac Prices In Local Currency
+\item \strong{bmcpd:} Big Mac Prices In Dollars
+\item \strong{ippp:} implied PPP of the Dollar (PPP is Purchasing Power Parity)
+\item \strong{ader:} actual Dollar exchange rate, Jan 31st
+\item \strong{u_o_vag:} under (-) / over (+) valuation against the Dollar (\%)
 }
 }
 \source{

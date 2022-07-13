@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_8_9)` rows and
 #' `r ncol(table_8_9)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{savings}{}
-#'   \item{income}{}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{savings}
+#'   \item \strong{income}
 #' }
 #'
 #' @source Economic Report of the President, 1997, Table B-28, p. 332.

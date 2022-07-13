@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 13 rows and
 3 variables:
-\describe{
-\item{obs:}{observation}
-\item{y:}{mean hourly wage}
-\item{x}{years of schooling}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{y:} mean hourly wage
+\item \strong{x:} years of schooling
 }
 }
 \source{

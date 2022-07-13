@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 40 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{compens:}{index of real compensation per hour (1992 = 100)}
-\item{produc:}{index of output per hour (1992 = 100)}
-\item{unrate:}{civilian unemployment rate, \%}
+\itemize{
+\item \strong{year}
+\item \strong{compens:} index of real compensation per hour (1992 = 100)
+\item \strong{produc:} index of output per hour (1992 = 100)
+\item \strong{unrate:} civilian unemployment rate, \%
 }
 }
 \source{

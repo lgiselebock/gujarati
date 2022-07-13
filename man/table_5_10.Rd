@@ -7,11 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 27 rows and
 3 variables:
-
-\describe{
-\item{year}{}
-\item{cpi:}{consumer price index}
-\item{ppi:}{producer price index, also called wholesale price index (WPI); total finished goods}
+\itemize{
+\item \strong{year}
+\item \strong{cpi:} consumer price index
+\item \strong{ppi:} producer price index, also called wholesale price index (WPI); total finished goods
 }
 }
 \source{

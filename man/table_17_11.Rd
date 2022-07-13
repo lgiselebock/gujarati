@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 40 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{investment:}{private ﬁxed investment in information processing equipment and software, billions of dollars, seasonally adjusted}
-\item{sales:}{sales in total manufacturing and trade, millions of dollars, seasonally adjusted}
-\item{interest:}{ Moody’s Aaa corporate bond rate, \%}
+\itemize{
+\item \strong{year}
+\item \strong{investment:} private ﬁxed investment in information processing equipment and software, billions of dollars, seasonally adjusted
+\item \strong{sales:} sales in total manufacturing and trade, millions of dollars, seasonally adjusted
+\item \strong{interest:} Moody’s Aaa corporate bond rate, \%
 }
 }
 \source{

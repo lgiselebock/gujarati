@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 30 rows and
 7 variables:
-\describe{
-\item{year}{}
-\item{c:}{12-month average U.S. domestic price of copper (cents per pound)}
-\item{g:}{annual gross national product ($, billions)}
-\item{i:}{12-month average index of industrial production}
-\item{l:}{12-month average London Metal Exchange price of copper (pounds sterling)}
-\item{h:}{number of housing starts per year (thousands of units)}
-\item{a:}{12-month average price of aluminum (cents per pound)}
+\itemize{
+\item \strong{year}
+\item \strong{c:} 12-month average U.S. domestic price of copper (cents per pound)
+\item \strong{g:} annual gross national product ($, billions)
+\item \strong{i:} 12-month average index of industrial production
+\item \strong{l:} 12-month average London Metal Exchange price of copper (pounds sterling)
+\item \strong{h:} number of housing starts per year (thousands of units)
+\item \strong{a:} 12-month average price of aluminum (cents per pound)
 }
 }
 \source{

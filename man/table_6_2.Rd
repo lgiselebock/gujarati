@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 16 rows and
 5 variables:
-\describe{
-\item{year}{}
-\item{gpdibl:}{gross private domestic investment, billions of 2000 dollars}
-\item{gpdim:}{gross private domestic investment, millions of 2000 dollars}
-\item{gdpb:}{gross domestic product, billions of 2000 dollars}
-\item{gdpm:}{gross domestic product, millions of 2000 dollars}
+\itemize{
+\item \strong{year}
+\item \strong{gpdibl:} gross private domestic investment, billions of 2000 dollars
+\item \strong{gpdim:} gross private domestic investment, millions of 2000 dollars
+\item \strong{gdpb:} gross domestic product, billions of 2000 dollars
+\item \strong{gdpm:} gross domestic product, millions of 2000 dollars
 }
 }
 \source{

@@ -4,12 +4,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_12_9)` rows and
 #' `r ncol(table_12_9)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{sales:}{annual data are averages of monthly, not seasonally adjusted, ﬁgures}
-#'   \item{inventories:}{seasonally adjusted, end of period ﬁgures beginning 1982 are not comparable with earlier period}
-#'   \item{ratio:}{inventories/sales}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{sales:} annual data are averages of monthly, not seasonally adjusted, ﬁgures
+#'   \item \strong{inventories:} seasonally adjusted, end of period ﬁgures beginning 1982 are not comparable with earlier period
+#'   \item \strong{ratio:} inventories/sales
 #' }
 #'
-#' @source  Economic Report of the President, 1993, Table B-53, p. 408.
+#' @source Economic Report of the President, 1993, Table B-53, p. 408.
 "table_12_9"

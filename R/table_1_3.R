@@ -4,15 +4,15 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_1_3)` rows and
 #' `r ncol(table_1_3)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{usa}{}
-#'   \item{canada}{}
-#'   \item{japan}{}
-#'   \item{france}{}
-#'   \item{germany}{}
-#'   \item{italy}{}
-#'   \item{uk}{}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{usa}
+#'   \item \strong{canada}
+#'   \item \strong{japan}
+#'   \item \strong{france}
+#'   \item \strong{germany}
+#'   \item \strong{italy}
+#'   \item \strong{uk}
 #' }
 #'
 #' @source Economic Report of the President, 2007, Table 108, p. 354.

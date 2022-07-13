@@ -5,14 +5,14 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_21_1)` rows and
 #' `r ncol(table_21_1)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{quarter}{}
-#'   \item{dpi:}{real disposable personal income (billions of dollars)}
-#'   \item{gdp:}{gross domestic product (billions of dollars)}
-#'   \item{pce:}{real personal consumption expenditure (billions of dollars)}
-#'   \item{cp:}{corporate proﬁts (billions of dollars)}
-#'   \item{dividend:}{ dividends, (billions of dollars)}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{quarter}
+#'   \item \strong{dpi:} real disposable personal income (billions of dollars)
+#'   \item \strong{gdp:} gross domestic product (billions of dollars)
+#'   \item \strong{pce:} real personal consumption expenditure (billions of dollars)
+#'   \item \strong{cp:} corporate proﬁts (billions of dollars)
+#'   \item \strong{dividend:} dividends, (billions of dollars)
 #' }
 #'
 #' @source All the data are collected from FRED, the economic website of the Federal

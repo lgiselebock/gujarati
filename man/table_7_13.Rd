@@ -7,16 +7,15 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 260 rows and
 3 variables:
-\describe{
-\item{date}{}
-\item{time}{}
-\item{close}{}
+\itemize{
+\item \strong{date}
+\item \strong{time}
+\item \strong{close}
 }
 }
 \source{
 GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.
 Boston, Mass: McGraw-Hill, 2009, p. 226-227.
-The full data can be found on the textbook’s website in Table 7.13.
 }
 \usage{
 table_7_13

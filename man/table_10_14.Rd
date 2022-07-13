@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 16 rows and
 7 variables:
-\describe{
-\item{year}{}
-\item{y:}{new passenger cars sold (thousands), seasonally unadjusted}
-\item{x2:}{new cars, Consumer Price Index, 1967 = 100, seasonally unadjusted}
-\item{x3:}{Consumer Price Index, all items, all urban consumers, 1967 = 100, seasonally unadjusted}
-\item{x4:}{the personal disposable income (PDI), billions of dollars, unadjusted for seasonal variation}
-\item{x5:}{the interest rate, percent, ﬁnance company paper placed directly}
-\item{x6:}{the employed civilian labor force (thousands), unadjusted for seasonal variation.}
+\itemize{
+\item \strong{year}
+\item \strong{y:} new passenger cars sold (thousands), seasonally unadjusted
+\item \strong{x2:} new cars, consumer price index, 1967 = 100, seasonally unadjusted
+\item \strong{x3:} consumer price index, all items, all urban consumers, 1967 = 100, seasonally unadjusted
+\item \strong{x4:} the personal disposable income (PDI), billions of dollars, unadjusted for seasonal variation
+\item \strong{x5:} the interest rate, percent, ﬁnance company paper placed directly
+\item \strong{x6:} the employed civilian labor force (thousands), unadjusted for seasonal variation.
 }
 }
 \source{

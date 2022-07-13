@@ -7,13 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 20 rows and
 6 variables:
-\describe{
-\item{year}{}
-\item{y:}{defense budget outlays}
-\item{x2:}{GNP}
-\item{x3:}{U.S. Military sales/assistance}
-\item{x4:}{aerospace industry sales}
-\item{x5:}{conflicts 100,000+}
+\itemize{
+\item \strong{year}
+\item \strong{y:} defense budget outlays
+\item \strong{x2:} GNP
+\item \strong{x3:} U.S. Military sales/assistance
+\item \strong{x4:} aerospace industry sales
+\item \strong{x5:} conflicts 100,000+
 }
 }
 \source{

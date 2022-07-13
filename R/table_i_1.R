@@ -5,10 +5,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_i_1)` rows and
 #' `r ncol(table_i_1)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{pce_y:}{personal consumption expenditure}
-#'   \item{gdp_x:}{gross domestic product}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{pce_y:} personal consumption expenditure
+#'   \item \strong{gdp_x:} gross domestic product
 #' }
 #'
 #' @source Economic Report of the President, 2007, Table B-2, p. 230.

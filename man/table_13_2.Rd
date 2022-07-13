@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 7 variables:
-\describe{
-\item{y_star:}{true Consumption Expenditure, $}
-\item{x_star:}{true Income, $}
-\item{y:}{measure Consumption Expenditure, $}
-\item{x:}{measured Income, $}
-\item{e:}{stochastic Error Term}
-\item{w:}{stochastic Error Term}
-\item{u:}{stochastic Error Term}
+\itemize{
+\item \strong{y_star:} true Consumption Expenditure, $
+\item \strong{x_star:} true Income, $
+\item \strong{y:} measure Consumption Expenditure, $
+\item \strong{x:} measured Income, $
+\item \strong{e:} stochastic Error Term
+\item \strong{w:} stochastic Error Term
+\item \strong{u:} stochastic Error Term
 }
 }
 \source{

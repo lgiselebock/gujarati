@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 35 rows and
 3 variables:
-\describe{
-\item{y:}{y = -1 + 3x + e}
-\item{y_star:}{y_star = 1 se y > 0; 0 otherwise}
-\item{x}{}
+\itemize{
+\item \strong{y:} y = -1 + 3x + e
+\item \strong{y_star:} = 1 se y > 0; 0 otherwise
+\item \strong{x}
 }
 }
 \source{

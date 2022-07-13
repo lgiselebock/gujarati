@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 64 rows and
 5 variables:
-\describe{
-\item{obs}{}
-\item{cm:}{child mortality, the number of deaths of children under age 5 in year per 1000 live births}
-\item{flfp:}{female literacy rate, percent}
-\item{pgnp:}{per capita GNP in 1980}
-\item{tfr:}{total fertility rate, 1980-1985, the average number of children born to a woman, using age-specific fertility rates for a given year}
+\itemize{
+\item \strong{obs}
+\item \strong{cm:} child mortality, the number of deaths of children under age 5 in year per 1000 live births
+\item \strong{flfp:} female literacy rate, percent
+\item \strong{pgnp:} per capita GNP in 1980
+\item \strong{tfr:} total fertility rate, 1980-1985, the average number of children born to a woman, using age-specific fertility rates for a given year
 }
 }
 \source{

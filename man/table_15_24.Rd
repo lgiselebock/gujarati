@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 11 rows and
 3 variables:
-\describe{
-\item{X:}{price discount, ¢}
-\item{Ni:}{sample size}
-\item{ni:}{number of coupons redeemed}
+\itemize{
+\item \strong{X:} price discount, ¢
+\item \strong{Ni:} sample size
+\item \strong{ni:} number of coupons redeemed
 }
 }
 \source{

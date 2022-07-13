@@ -5,10 +5,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_17_10)` rows and
 #' `r ncol(table_17_10)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{y:}{plant expenditure, seasonally adjusted, billions of $}
-#'   \item{x2:}{manufacturing sales, seasonally adjusted, billions of $}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{y:} plant expenditure, seasonally adjusted, billions of $
+#'   \item \strong{x2:} manufacturing sales, seasonally adjusted, billions of $
 #' }
 #'
 #' @source Economic Report of the President, 1993. Data on Y from Table B-52, p. 407;

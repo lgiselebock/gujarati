@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 23 rows and
 7 variables:
-\describe{
-\item{year}{}
-\item{y:}{per capita consumption of chickens, lb}
-\item{x2:}{real disposable income per capita, $}
-\item{x3:}{real retail price of chicken per lb, ¢}
-\item{x4:}{real retail price of pork per lb, ¢}
-\item{x5:}{real retail price of beef per lb, ¢}
-\item{x6:}{composite real price of chicken substitutes per lb, ¢, which is a weighted average of the real retail prices per lb of pork and beef, the weights being the relative consumptions of beef and pork in total beef and pork consumption}
+\itemize{
+\item \strong{year}
+\item \strong{y:} per capita consumption of chickens, lb
+\item \strong{x2:} real disposable income per capita, $
+\item \strong{x3:} real retail price of chicken per lb, ¢
+\item \strong{x4:} real retail price of pork per lb, ¢
+\item \strong{x5:} real retail price of beef per lb, ¢
+\item \strong{x6:} composite real price of chicken substitutes per lb, ¢, which is a weighted average of the real retail prices per lb of pork and beef, the weights being the relative consumptions of beef and pork in total beef and pork consumption
 }
 }
 \source{
@@ -24,8 +24,9 @@ A \link[tibble:tibble-package]{tibble} with 23 rows and
 table_7_9
 }
 \description{
-Demand for Chicken in the U.S., 1960–1982
-Note: The real prices were obtained by dividing the nominal prices
-by the Consumer Price Index for food
+Table 7.9 Demand for Chicken in the U.S., 1960–1982
+}
+\note{
+The real prices were obtained by dividing the nominal prices by the Consumer Price Index for food
 }
 \keyword{datasets}

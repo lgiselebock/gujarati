@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 41 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{sales:}{annual data are averages of monthly, not seasonally adjusted, ﬁgures}
-\item{inventories:}{seasonally adjusted, end of period ﬁgures beginning 1982 are not comparable with earlier period}
-\item{ratio:}{inventories/sales}
+\itemize{
+\item \strong{year}
+\item \strong{sales:} annual data are averages of monthly, not seasonally adjusted, ﬁgures
+\item \strong{inventories:} seasonally adjusted, end of period ﬁgures beginning 1982 are not comparable with earlier period
+\item \strong{ratio:} inventories/sales
 }
 }
 \source{

@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 23 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{clfpr:}{civilian labor force participation rate}
-\item{cnur:}{civilian unemployment rate}
-\item{ahe82:}{real average hourly earnings}
+\itemize{
+\item \strong{year}
+\item \strong{clfpr:} civilian labor force participation rate
+\item \strong{cnur:} civilian unemployment rate
+\item \strong{ahe82:} real average hourly earnings
 }
 }
 \source{

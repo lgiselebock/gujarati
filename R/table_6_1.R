@@ -8,10 +8,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_6_1)` rows and
 #' `r ncol(table_6_1)` variables:
-#' \describe{
-#'   \item{obs:}{year and month}
-#'   \item{Y:}{excess returns (Yt, %)}
-#'   \item{X:}{excess returns (Xt, %)}
+#' \itemize{
+#'   \item \strong{obs:} year and month
+#'   \item \strong{Y:} excess returns (Yt, %)
+#'   \item \strong{X:} excess returns (Xt, %)
 #' }
 #'
 #' @source  These data, originally obtained from DataStream databank,

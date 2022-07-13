@@ -7,23 +7,23 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 1519 rows and
 16 variables:
-\describe{
-\item{wfood:}{budget share for food expenditure}
-\item{wfuel:}{budget share for fuel expenditure}
-\item{wcloth:}{budget share for clothing expenditure}
-\item{wacl:}{budget share for alcohol expenditure}
-\item{wtrans:}{budget share for transportation expenditure}
-\item{wother:}{budget share for other expenditures}
-\item{totexp:}{total household expenditure (rounded to the nearest 10 U.K. pounds sterling)}
-\item{income:}{total net household income (rounded to the nearest 10 U.K. pounds sterling)}
-\item{age:}{age of household head}
-\item{nk:}{number of children}
-\item{food:}{food expenditure}
-\item{fuel:}{fuel expenditure}
-\item{cloth:}{clothing expenditure}
-\item{alc:}{alcohol expenditure}
-\item{trans:}{transportation expenditure}
-\item{other:}{other expenditures}
+\itemize{
+\item \strong{wfood:} budget share for food expenditure
+\item \strong{wfuel:} budget share for fuel expenditure
+\item \strong{wcloth:} budget share for clothing expenditure
+\item \strong{wacl:} budget share for alcohol expenditure
+\item \strong{wtrans:} budget share for transportation expenditure
+\item \strong{wother:} budget share for other expenditures
+\item \strong{totexp:} total household expenditure (rounded to the nearest 10 U.K. pounds sterling)
+\item \strong{income:} total net household income (rounded to the nearest 10 U.K. pounds sterling)
+\item \strong{age:} age of household head
+\item \strong{nk:} number of children
+\item \strong{food:} food expenditure
+\item \strong{fuel:} fuel expenditure
+\item \strong{cloth:} clothing expenditure
+\item \strong{alc:} alcohol expenditure
+\item \strong{trans:} transportation expenditure
+\item \strong{other:} other expenditures
 }
 }
 \source{

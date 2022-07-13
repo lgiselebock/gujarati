@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 13 rows and
 4 variables:
-\describe{
-\item{student:}{student number}
-\item{q:}{GRE aptitude test score - quantitative}
-\item{v:}{GRE aptitude test score - verbal}
-\item{adm:}{admitted to graduate program; adm = 1 if yes, adm = 0 if no}
+\itemize{
+\item \strong{student:} student number
+\item \strong{q:} GRE aptitude test score - quantitative
+\item \strong{v:} GRE aptitude test score - verbal
+\item \strong{adm:} admitted to graduate program; = 1 if yes, = 0 if no
 }
 }
 \source{

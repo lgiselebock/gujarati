@@ -7,9 +7,9 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 2 variables:
-\describe{
-\item{p_hat}{}
-\item{i:}{I = F^(-1) * p_hat}
+\itemize{
+\item \strong{p_hat}
+\item \strong{i:} I = F^(-1) * p_hat
 }
 }
 \source{

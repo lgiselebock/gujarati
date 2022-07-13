@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_13_3)` rows and
 #' `r ncol(table_13_3)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{ppce:}{personal consumption expenditure}
-#'   \item{pdpi:}{personal disposable income}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{ppce:} personal consumption expenditure
+#'   \item \strong{pdpi:} personal disposable income
 #' }
 #'
 #' @source Economic Report of the President, 2007.

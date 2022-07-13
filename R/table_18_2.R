@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_18_2)` rows and
 #' `r ncol(table_18_2)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{c:}{personal consumption expenditure}
-#'   \item{i:}{gross private domestic investment}
-#'   \item{y:}{gross domestic product}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{c:} personal consumption expenditure
+#'   \item \strong{i:} gross private domestic investment
+#'   \item \strong{y:} gross domestic product
 #' }
 #'
 #' @source  Economic Report of the President, 2008, Table B-2.

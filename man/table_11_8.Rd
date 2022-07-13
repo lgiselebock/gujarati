@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 5 variables:
-\describe{
-\item{years_rank}{}
-\item{year}{}
-\item{year2:}{midpoint of the range}
-\item{count}{}
-\item{median:}{average salary}
+\itemize{
+\item \strong{years_rank}
+\item \strong{year}
+\item \strong{year2:} midpoint of the range
+\item \strong{count}
+\item \strong{median:} average salary
 }
 }
 \source{

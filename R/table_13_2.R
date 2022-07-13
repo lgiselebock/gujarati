@@ -4,14 +4,14 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_13_2)` rows and
 #' `r ncol(table_13_2)` variables:
-#' \describe{
-#'   \item{y_star:}{true Consumption Expenditure, $}
-#'   \item{x_star:}{true Income, $}
-#'   \item{y:}{measure Consumption Expenditure, $}
-#'   \item{x:}{measured Income, $}
-#'   \item{e:}{stochastic Error Term}
-#'   \item{w:}{stochastic Error Term}
-#'   \item{u:}{stochastic Error Term}
+#' \itemize{
+#'   \item \strong{y_star:} true Consumption Expenditure, $
+#'   \item \strong{x_star:} true Income, $
+#'   \item \strong{y:} measure Consumption Expenditure, $
+#'   \item \strong{x:} measured Income, $
+#'   \item \strong{e:} stochastic Error Term
+#'   \item \strong{w:} stochastic Error Term
+#'   \item \strong{u:} stochastic Error Term
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

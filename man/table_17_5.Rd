@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 40 rows and
 5 variables:
-\describe{
-\item{obs:}{observation; year and quarter}
-\item{m1:}{C$, millions}
-\item{r:}{90-day prime corporate interest rate, \%}
-\item{p:}{implicit price deflator (1981 = 100)}
-\item{gdp:}{C$, millions (1981 prices)}
+\itemize{
+\item \strong{obs:} observation; year and quarter
+\item \strong{m1:} C$, millions
+\item \strong{r:} 90-day prime corporate interest rate, \%
+\item \strong{p:} implicit price deflator (1981 = 100)
+\item \strong{gdp:} C$, millions (1981 prices)
 }
 }
 \source{

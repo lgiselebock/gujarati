@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_12_8)` rows and
 #' `r ncol(table_12_8)` variables:
-#' \describe{
-#'   \item{y:}{personal consumption expenditure, $, billions of 1958}
-#'   \item{x:}{time; 1 = 1956, ..., 15 = 1970}
-#'   \item{y_hat:}{estimated y}
-#'   \item{u:}{residuals}
+#' \itemize{
+#'   \item \strong{y:} personal consumption expenditure, $, billions of 1958
+#'   \item \strong{x:} time; 1 = 1956, ..., 15 = 1970
+#'   \item \strong{y_hat:} estimated y
+#'   \item \strong{u:} residuals
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 51 rows and
 5 variables:
-\describe{
-\item{state}{}
-\item{salary}{}
-\item{spending}{}
-\item{d2:}{1 for states in the Northeast and North Central; 0 otherwise}
-\item{d3:}{1 for states in the South; 0 otherwise}
+\itemize{
+\item \strong{state}
+\item \strong{salary}
+\item \strong{spending}
+\item \strong{d2:} 1 for states in the Northeast and North Central; 0 otherwise
+\item \strong{d3:} 1 for states in the South; 0 otherwise
 }
 }
 \source{

@@ -7,31 +7,31 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 395 rows and
 24 variables:
-\describe{
-\item{countryid}{}
-\item{country}{}
-\item{cntry_code}{}
-\item{year}{}
-\item{aidcap}{}
-\item{raidcap}{}
-\item{infmort}{}
-\item{infmort_2}{}
-\item{pop}{}
-\item{raid}{}
-\item{civlib}{}
-\item{polright}{}
-\item{civil_polrts}{}
-\item{goveff}{}
-\item{regqual}{}
-\item{rgdpcap1}{}
-\item{rgdpcap}{}
-\item{rgdcap_2}{}
-\item{popmil}{}
-\item{popmil_2}{}
-\item{deflator}{}
-\item{y1}{}
-\item{y2}{}
-\item{y3}{}
+\itemize{
+\item \strong{countryid}
+\item \strong{country}
+\item \strong{cntry_code}
+\item \strong{year}
+\item \strong{aidcap}
+\item \strong{raidcap}
+\item \strong{infmort}
+\item \strong{infmort_2}
+\item \strong{pop}
+\item \strong{raid}
+\item \strong{civlib}
+\item \strong{polright}
+\item \strong{civil_polrts}
+\item \strong{goveff}
+\item \strong{regqual}
+\item \strong{rgdpcap1}
+\item \strong{rgdpcap}
+\item \strong{rgdcap_2}
+\item \strong{popmil}
+\item \strong{popmil_2}
+\item \strong{deflator}
+\item \strong{y1}
+\item \strong{y2}
+\item \strong{y3}
 }
 }
 \source{

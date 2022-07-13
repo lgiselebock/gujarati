@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 342 rows and
 7 variables:
-\describe{
-\item{country}{}
-\item{ctry_code:}{country code, in all 18 OECD countries}
-\item{year:}{annual observations from 1960–1978}
-\item{lgaspcar:}{gasoline consumption per car}
-\item{lincomep:}{real income per capita}
-\item{lrpmg:}{real gasoline price}
-\item{lcarpcap:}{number of cars per capita}
+\itemize{
+\item \strong{country}
+\item \strong{ctry_code:} country code, in all 18 OECD countries
+\item \strong{year:} annual observations from 1960–1978
+\item \strong{lgaspcar:} gasoline consumption per car
+\item \strong{lincomep:} real income per capita
+\item \strong{lrpmg:} real gasoline price
+\item \strong{lcarpcap:} number of cars per capita
 }
 }
 \source{

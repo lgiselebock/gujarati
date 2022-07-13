@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 54 rows and
 5 variables:
-\describe{
-\item{year}{}
-\item{c:}{consume expenditure}
-\item{yd:}{real disposable personal income}
-\item{w:}{real wealth}
-\item{i:}{real interest rate}
+\itemize{
+\item \strong{year}
+\item \strong{c:} consume expenditure
+\item \strong{yd:} real disposable personal income
+\item \strong{w:} real wealth
+\item \strong{i:} real interest rate
 }
 }
 \source{

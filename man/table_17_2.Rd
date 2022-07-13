@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 48 rows and
 3 variables:
-\describe{
-\item{year}{}
-\item{ppce:}{per capita personal consumption expenditure in chained 2000 dollars}
-\item{ppdi:}{per capita personal disposable income in chained 2000 dollars}
+\itemize{
+\item \strong{year}
+\item \strong{ppce:} per capita personal consumption expenditure in chained 2000 dollars
+\item \strong{ppdi:} per capita personal disposable income in chained 2000 dollars
 }
 }
 \source{

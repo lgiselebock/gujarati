@@ -7,9 +7,9 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 10 rows and
 2 variables:
-\describe{
-\item{y}{}
-\item{x}{}
+\itemize{
+\item \strong{y}
+\item \strong{x}
 }
 }
 \source{

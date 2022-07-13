@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_e_1)` rows and
 #' `r ncol(table_e_1)` variables:
-#' \describe{
-#'   \item{year}{}
-#'   \item{clfpr:}{civilian labor force participation rate}
-#'   \item{cnur:}{civilian unemployment rate}
-#'   \item{ahe82:}{real average hourly earnings}
+#' \itemize{
+#'   \item \strong{year}
+#'   \item \strong{clfpr:} civilian labor force participation rate
+#'   \item \strong{cnur:} civilian unemployment rate
+#'   \item \strong{ahe82:} real average hourly earnings
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

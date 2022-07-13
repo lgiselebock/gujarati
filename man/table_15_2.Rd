@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 40 rows and
 4 variables:
-\describe{
-\item{y:}{actual y}
-\item{y_hat:}{estimated y}
-\item{w_hat:}{weights}
-\item{sqrt_w:}{square root weights}
+\itemize{
+\item \strong{y:} actual y
+\item \strong{y_hat:} estimated y
+\item \strong{w_hat:} weights
+\item \strong{sqrt_w:} square root weights
 }
 }
 \source{

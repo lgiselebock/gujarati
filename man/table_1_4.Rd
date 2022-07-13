@@ -7,16 +7,16 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 22 rows and
 10 variables:
-\describe{
-\item{year}{}
-\item{australia:}{dollar}
-\item{canada:}{dollar}
-\item{china_p_r:}{yuan}
-\item{mexico:}{peso}
-\item{south_korea:}{won}
-\item{sweden:}{krona}
-\item{switzerland:}{franc}
-\item{united_kingdom:}{pound}
+\itemize{
+\item \strong{year}
+\item \strong{australia:} dollar
+\item \strong{canada:} dollar
+\item \strong{china_p_r:} yuan
+\item \strong{mexico:} peso
+\item \strong{south_korea:} won
+\item \strong{sweden:} krona
+\item \strong{switzerland:} franc
+\item \strong{united_kingdom:} pound
 }
 }
 \source{

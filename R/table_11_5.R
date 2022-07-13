@@ -4,12 +4,12 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_11_5)` rows and
 #' `r ncol(table_11_5)` variables:
-#' \describe{
-#'   \item{obs:}{observations}
-#'   \item{industry}{}
-#'   \item{sales}{millions of dollars}
-#'   \item{rd}{millions of dollars}
-#'   \item{profits}{millions of dollars}
+#' \itemize{
+#'   \item \strong{obs:} observations
+#'   \item \strong{industry}
+#'   \item \strong{sales:} millions of dollars
+#'   \item \strong{rd:} millions of dollars
+#'   \item \strong{profits:} millions of dollars
 #' }
 #'
 #' @source National Science Foundation, Division of Science Resources Statistics,

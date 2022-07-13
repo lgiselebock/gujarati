@@ -7,16 +7,16 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 23 rows and
 9 variables:
-\describe{
-\item{obs:}{observation}
-\item{year:}{election year}
-\item{v:}{incumbent share of the two-party presidential vote}
-\item{w:}{indicator variable (1 for the elections of 1920, 1944, and 1948, and 0 otherwise)}
-\item{d:}{indicator variable (1 if a Democratic incumbent is running for election, −1 if a Republican incumbent is running for election, and 0 otherwise)}
-\item{g:}{growth rate of real per capita GDP in the ﬁrst three quarters of the election year}
-\item{i:}{indicator variable (1 if there is a Democratic incumbent at the time of the election and −1 if there is a Republican incumbent)}
-\item{n:}{number of quarters in the ﬁrst 15 quarters of the administration in which the growth rate of real per capita GDP is greater than 3.2\%}
-\item{p:}{absolute value of the growth rate of the GDP deﬂator in the ﬁrst 15 quarters of the administration}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{year:} election year
+\item \strong{v:} incumbent share of the two-party presidential vote
+\item \strong{w:} indicator variable (1 for the elections of 1920, 1944, and 1948, and 0 otherwise)
+\item \strong{d:} indicator variable (1 if a Democratic incumbent is running for election, −1 if a Republican incumbent is running for election, and 0 otherwise)
+\item \strong{g:} growth rate of real per capita GDP in the ﬁrst three quarters of the election year
+\item \strong{i:} indicator variable (1 if there is a Democratic incumbent at the time of the election and −1 if there is a Republican incumbent)
+\item \strong{n:} number of quarters in the ﬁrst 15 quarters of the administration in which the growth rate of real per capita GDP is greater than 3.2\%
+\item \strong{p:} absolute value of the growth rate of the GDP deﬂator in the ﬁrst 15 quarters of the administration
 }
 }
 \source{
@@ -30,6 +30,6 @@ pp. 150–151 and updated from \url{http://fairmodel.econ.yale.edu/rayfair/pdf/2
 table_9_9
 }
 \description{
-U.S. Presidential Elections, 1916–2004
+Table 9.9 U.S. Presidential Elections, 1916–2004
 }
 \keyword{datasets}

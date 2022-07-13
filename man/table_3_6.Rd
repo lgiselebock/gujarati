@@ -7,22 +7,13 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 46 rows and
 5 variables:
-\describe{
-\item{year}{}
-\item{out_bus: }{Output per Hour of All Persons on Business Sector}
-\item{out_nbus: }{Output per Hour of All Persons on Nonfarm Business Sector}
-\item{rcom_bus: }{Real Compensation per Hour on Business Sector}
-\item{rcom_nbus: }{Real Compensation per Hour on Nonfarm Business Sector}
+\itemize{
+\item \strong{year}
+\item \strong{outbus:} output per hour of all persons on business sector
+\item \strong{outnbus:} output per Hour of all persons on nonfarm business sector
+\item \strong{rcombus:} real compensation per hour on business sector
+\item \strong{rcomnbus:} real compensation per hour on nonfarm business sector
 }
-}
-\source{
-Economic Report of the President, 2007, Table 49.
-
-Note 1: Output refers to real gross domestic product in the sector.
-Note 2: Wages and salaries of employees plus employers’ contributions for
-social insurance and private beneﬁt plans.
-Note 3: Hourly compensation divided by the consumer price index for all
-urban consumers for recent quarters.
 }
 \usage{
 table_3_6
@@ -30,5 +21,12 @@ table_3_6
 \description{
 Productivity and Related Data, Business Sector 1960–2005
 (Index numbers, 1992 = 100; quarterly data seasonally adjusted)
+}
+\note{
+Output refers to real gross domestic product in the sector;
+Wages and salaries of employees plus employers’ contributions for social insurance and private beneﬁt plans;
+Hourly compensation divided by the consumer price index for all urban consumers for recent quarters.
+
+#' @source Economic Report of the President, 2007, Table 49.
 }
 \keyword{datasets}

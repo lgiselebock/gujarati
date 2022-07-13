@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_2_6)` rows and
 #' `r ncol(table_2_6)` variables:
-#' \describe{
-#'   \item{years_schooling:}{years of schooling}
-#'   \item{mean_wage:}{mean wage, $}
-#'   \item{n_people:}{number of people}
+#' \itemize{
+#'   \item \strong{years_schooling:} years of schooling
+#'   \item \strong{mean_wage:} mean wage, $
+#'   \item \strong{n_people:} number of people
 #' }
 #'
 #' @source Arthur S. Goldberger. Introductory Econometrics, Harvard University Press,

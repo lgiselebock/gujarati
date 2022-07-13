@@ -4,10 +4,10 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_10_5)` rows and
 #' `r ncol(table_10_5)` variables:
-#' \describe{
-#'   \item{y:}{consumption expenditure}
-#'   \item{x2:}{income}
-#'   \item{x3:}{wealth}
+#' \itemize{
+#'   \item \strong{y:} consumption expenditure
+#'   \item \strong{x2:} income
+#'   \item \strong{x3:} wealth
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

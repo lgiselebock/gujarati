@@ -4,13 +4,13 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_7_6)` rows and
 #' `r ncol(table_7_6)` variables:
-#' \describe{
-#'   \item{year_quarter}{}
-#'   \item{y:}{quantity of roses sold, dozens}
-#'   \item{x2:}{average wholesale price of roses, $/dozen}
-#'   \item{x3:}{average wholesale price of carnations, $/dozen}
-#'   \item{x4:}{average weekly family disposable income, $/week}
-#'   \item{x5:}{the trend variable taking values of 1, 2, and so on, for the perior 1971-III to 1975-II in the Detroit metropolitan area}
+#' \itemize{
+#'   \item \strong{year_quarter}
+#'   \item \strong{y:} quantity of roses sold, dozens
+#'   \item \strong{x2:} average wholesale price of roses, $/dozen
+#'   \item \strong{x3:} average wholesale price of carnations, $/dozen
+#'   \item \strong{x4:} average weekly family disposable income, $/week
+#'   \item \strong{x5:} the trend variable taking values of 1, 2, and so on, for the perior 1971-III to 1975-II in the Detroit metropolitan area
 #' }
 #'
 #' @source GUJARATI, Damodar N.; PORTER, Dawn C. Basic Econometrics, 5th ed.

@@ -7,14 +7,14 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 244 rows and
 7 variables:
-\describe{
-\item{year}{}
-\item{quarter}{}
-\item{dpi:}{real disposable personal income (billions of dollars)}
-\item{gdp:}{gross domestic product (billions of dollars)}
-\item{pce:}{real personal consumption expenditure (billions of dollars)}
-\item{cp:}{corporate proﬁts (billions of dollars)}
-\item{dividend:}{ dividends, (billions of dollars)}
+\itemize{
+\item \strong{year}
+\item \strong{quarter}
+\item \strong{dpi:} real disposable personal income (billions of dollars)
+\item \strong{gdp:} gross domestic product (billions of dollars)
+\item \strong{pce:} real personal consumption expenditure (billions of dollars)
+\item \strong{cp:} corporate proﬁts (billions of dollars)
+\item \strong{dividend:} dividends, (billions of dollars)
 }
 }
 \source{

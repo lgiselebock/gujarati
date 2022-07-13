@@ -3,14 +3,14 @@
 \docType{data}
 \name{table_14_4}
 \alias{table_14_4}
-\title{Table 5.11}
+\title{Table 14.4}
 \format{
 A \link[tibble:tibble-package]{tibble} with 12 rows and
 3 variables:
-\describe{
-\item{occupation}{}
-\item{smoking}{}
-\item{cancer}{}
+\itemize{
+\item \strong{occupation}
+\item \strong{smoking}
+\item \strong{cancer}
 }
 }
 \source{
@@ -21,6 +21,6 @@ Boston, Mass: McGraw-Hill, 2009, p. 540.
 table_14_4
 }
 \description{
-Table 5.11
+Table 14.4
 }
 \keyword{datasets}

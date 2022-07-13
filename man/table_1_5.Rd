@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 588 rows and
 4 variables:
-\describe{
-\item{year_month}{}
-\item{year}{}
-\item{month}{}
-\item{m1:}{money stock; billions of dollars}
+\itemize{
+\item \strong{year_month}
+\item \strong{year}
+\item \strong{month}
+\item \strong{m1:} money stock; billions of dollars
 }
 }
 \source{

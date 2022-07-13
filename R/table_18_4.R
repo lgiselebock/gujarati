@@ -4,21 +4,21 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_18_4)` rows and
 #' `r ncol(table_18_4)` variables:
-#' \describe{
-#'   \item{year:}{date}
-#'   \item{qtr:}{quarter}
-#'   \item{realgdp:}{real GDP (billions of dollars)}
-#'   \item{realcons:}{real consumption expenditure}
-#'   \item{realinvs:}{real investment by private sector}
-#'   \item{realgovt:}{real government expenditure}
-#'   \item{realdpi:}{real disposable personal income}
-#'   \item{cpi_u:}{consumer price index}
-#'   \item{m1:}{nominal money stock}
-#'   \item{tbilrate:}{quarterly average of month-end 90-day T-bill rate}
-#'   \item{unemp}{}
-#'   \item{pop:}{population, millions, interpolate of year-end ﬁgures using constant growth rate per quarter}
-#'   \item{infl:}{rate of inﬂation (ﬁrst observation is missing}
-#'   \item{realint:}{expost real interest rate}
+#' \itemize{
+#'   \item \strong{year:} date
+#'   \item \strong{qtr:}quarter
+#'   \item \strong{realgdp:} real GDP (billions of dollars)
+#'   \item \strong{realcons:} real consumption expenditure
+#'   \item \strong{realinvs:} real investment by private sector
+#'   \item \strong{realgovt:} real government expenditure
+#'   \item \strong{realdpi:} real disposable personal income
+#'   \item \strong{cpi_u:} consumer price index
+#'   \item \strong{m1:} nominal money stock
+#'   \item \strong{tbilrate:} quarterly average of month-end 90-day T-bill rate
+#'   \item \strong{unemp}
+#'   \item \strong{pop:} population, millions, interpolate of year-end ﬁgures using constant growth rate per quarter
+#'   \item \strong{infl:} rate of inﬂation (ﬁrst observation is missing)
+#'   \item \strong{realint:} expost real interest rate
 #' }
 #'
 #' @source Department of Commerce, Bureau of Economic Analysis, and from \url{www.economagic.com},

@@ -4,11 +4,11 @@
 #'
 #' @format A [tibble][tibble::tibble-package] with `r nrow(table_20_1)` rows and
 #' `r ncol(table_20_1)` variables:
-#' \describe{
-#'   \item{obs:}{pbservation; year}
-#'   \item{q:}{index of crop production (1996 = 100)}
-#'   \item{p:}{index of crop prices received by farmers (1990-1992 = 100)}
-#'   \item{x:}{real per capita personal consumption expenditure}
+#' \itemize{
+#'   \item \strong{obs:} pbservation; year
+#'   \item \strong{q:} index of crop production (1996 = 100)
+#'   \item \strong{p:} index of crop prices received by farmers (1990-1992 = 100)
+#'   \item \strong{x:} real per capita personal consumption expenditure
 #' }
 #'
 #' @source Economic Report of the President, 2007.

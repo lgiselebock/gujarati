@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 32 rows and
 5 variables:
-\describe{
-\item{dish:}{dishwashers}
-\item{disp:}{garbage disposers}
-\item{frig:}{refrigerators}
-\item{wash:}{washing machines}
-\item{dur:}{durable goods expenditure, billions of 1982 dollas}
+\itemize{
+\item \strong{dish:} dishwashers
+\item \strong{disp:} garbage disposers
+\item \strong{frig:} refrigerators
+\item \strong{wash:} washing machines
+\item \strong{dur:} durable goods expenditure, billions of 1982 dollas
 }
 }
 \source{

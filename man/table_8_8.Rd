@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 20 rows and
 4 variables:
-\describe{
-\item{year}{}
-\item{gdp:}{millions of 1960 pesos}
-\item{employment:}{thousands of people}
-\item{capital:}{fixed capital, millions of 1960 pesos}
+\itemize{
+\item \strong{year}
+\item \strong{gdp:} millions of 1960 pesos
+\item \strong{employment:} thousands of people
+\item \strong{capital:} fixed capital, millions of 1960 pesos
 }
 }
 \source{

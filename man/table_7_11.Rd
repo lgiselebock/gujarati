@@ -7,12 +7,12 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 27 rows and
 5 variables:
-\describe{
-\item{year}{}
-\item{output:}{billions of Drachmas at constant 1970 prices}
-\item{capital}{}
-\item{labor:}{thousands of workers per year}
-\item{ratio:}{capital-to-labor}
+\itemize{
+\item \strong{year}
+\item \strong{output:} billions of Drachmas at constant 1970 prices
+\item \strong{capital}
+\item \strong{labor:} thousands of workers per year
+\item \strong{ratio:} capital-to-labor
 }
 }
 \source{
@@ -24,6 +24,6 @@ of Christopher Newport University, Virginia, for these data.
 table_7_11
 }
 \description{
-Greek Industrial Sector
+Table 7.11 Greek Industrial Sector
 }
 \keyword{datasets}

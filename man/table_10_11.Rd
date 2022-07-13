@@ -7,10 +7,10 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 11 rows and
 3 variables:
-\describe{
-\item{y}{}
-\item{x2}{}
-\item{x3}{}
+\itemize{
+\item \strong{y}
+\item \strong{x2}
+\item \strong{x3}
 }
 }
 \source{
@@ -21,6 +21,6 @@ Boston, Mass: McGraw-Hill, 2009, p. 352.
 table_10_11
 }
 \description{
-Hypothetical Data
+Table 10.11 Hypothetical Data
 }
 \keyword{datasets}

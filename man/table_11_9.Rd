@@ -7,11 +7,11 @@
 \format{
 A \link[tibble:tibble-package]{tibble} with 20 rows and
 4 variables:
-\describe{
-\item{obs:}{observation}
-\item{country}{}
-\item{y:}{stock prices; rate of change, \% per year}
-\item{x:}{consumer prices; rate of change, \% per year}
+\itemize{
+\item \strong{obs:} observation
+\item \strong{country}
+\item \strong{y:} stock prices; rate of change, \% per year
+\item \strong{x:} consumer prices; rate of change, \% per year
 }
 }
 \source{
